@@ -1,0 +1,7 @@
+Name 	DEPT.	CGPA	
+Rahim 	IPE	3.88	
+Karim 	EEE	3.92	
+Akash 	CSE	3.97	
+Chinmoi	CSE	3.97	
+Ansarul	CSE	3.97	
+Tawhid 	CSE	3.96	
